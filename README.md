@@ -1,3 +1,3 @@
 # best-repo-ever
 
-New branch 1
+New branch 2
